@@ -1,4 +1,3 @@
-# m2i-jour2
-M2i Jour 2
-Modif exercice / patchs
-METH2-VINCENT
+# Ex PR
+Modif exercice / POOL REQUEST
+ENcore un ligne a débugguer
