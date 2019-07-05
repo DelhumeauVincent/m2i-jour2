@@ -1,0 +1,21 @@
+From e90c31e9fb9ffdee9cb155895f5a42eb6cd29868 Mon Sep 17 00:00:00 2001
+From: Vincent Delhumeau <Vincent@cegid.com>
+Date: Fri, 5 Jul 2019 09:47:44 +0200
+Subject: [PATCH] Methode 2
+
+---
+ README.md | 2 ++
+ 1 file changed, 2 insertions(+)
+
+diff --git a/README.md b/README.md
+index a26735e..edc65e3 100644
+--- a/README.md
++++ b/README.md
+@@ -1,2 +1,4 @@
+ # m2i-jour2
+ M2i Jour 2
++Modif exercice / patchs
++Méthode 2
+-- 
+2.22.0.windows.1
+
