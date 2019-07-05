@@ -1,0 +1,8 @@
+﻿# Ignore le fichier
+config.yalm
+
+# ignore le répertoire "logs" et son contenu
+logs/*
+# sauf le fichier .gitkeep
+# > Attention, cete ligne doit se trouver après la précédente (/logs/*)
+!log/*.gitkeep
