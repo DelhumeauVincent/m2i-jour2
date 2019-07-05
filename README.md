@@ -2,3 +2,4 @@
 M2i Jour 2
 Modif exercice / patchs
 METH2-VINCENT
+Encore un petit debuggage de dernière minute
